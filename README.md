@@ -46,4 +46,5 @@ I'm a final year student at RCOEM passionate about coding, problem solving, and 
 - Solved 400+ problems on LeetCode with a 1568 rating  
 - 2-star rated coder on CodeChef  
 - Love exploring new web technologies and improving my competitive programming skills  
-- Coffee lover ☕ and algorithm enthusiast  
+- Coffee lover ☕ and algorithm enthusiast
+- Solved 100+ problems on GeeksforGeeks 
